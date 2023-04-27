@@ -7,21 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/mukeshkuiry7" target="blank"><img src="https://img.shields.io/twitter/follow/mukeshkuiry7?logo=twitter&style=for-the-badge" alt="mukeshkuiry7" /></a> </p>
 
-- 🔭 I’m currently working on [UNSNARL](https://github.com/UNSNARL)
-
-- 🌱 I’m currently learning **Web3, Blockchain**
+- 🔭 I’m currently working at [UNSNARL](https://github.com/UNSNARL)
 
 - 👯 I’m looking to collaborate on **Google**
 
 - 🤝 I’m looking for help with **Figuring out Binary 😂**
 
-- 👨‍💻 All of my projects are available at [https://bbsdevloper.github.io/portfolio/](https://bbsdevloper.github.io/portfolio/)
-
 - 💬 Ask me about **react, flutter, competitive programming**
 
 - 📫 How to reach me **mukeshk3162@gmail.com**
-
-- ⚡ Fun fact **I think "I am funny" but... she not 😔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
